@@ -1,16 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SungYoung&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-  	<img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
-
-
 <h3 align="center"> 🗣 Lenguege</h3>
 
 <p align = "center">
@@ -18,7 +8,6 @@
   <img src="https://img.shields.io/badge/Kotlin-006D5C?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 </p>
-
 
 
 <h3 align="center"> 🏢 Framework</h3>
