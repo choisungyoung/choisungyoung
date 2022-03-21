@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=sungyoung's github&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=sungyoung&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
