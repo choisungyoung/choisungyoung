@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SungYoung&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=ChoiSungyoung&fontSize=40&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <h3 align="center"> 🗣 Lenguege</h3>
 
@@ -29,3 +29,4 @@
   <img src="https://img.shields.io/badge/Docker-2391e6?style=flat-square&logo=kubernetes&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kubernetes-3169de?style=flat-square&logo=kubernetes&logoColor=black"/></a>&nbsp 
 </p>
+
